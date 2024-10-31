@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQKAAoAAAAAAAAAAAAAAPD///8PAAAA8FVVXw8AAADwVV/1DwAAAPBVVfUPAAAA8FVV9Q8AAADwVV/1DwAAAPBVVV8PAAAA8P///w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MAIN"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAfHx8fHx8fH/Hx8fHx8fHxHx8fHx8fHx/x8fHx8fHx8R8fHx8fHx8f8fHx8fHx8fEfHx8fHx8fH/Hx8fHx8fHxHx8fHx8fHx/x8fHx8fHx8R8fHx8fHx8f8fHx8fHx8fEfHx8fHx8fH/Hx8fHx8fHxHx8fHx8fHx/x8fHx8fHx8Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "CHECKERBOARD"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAICIiIgIAAAAiIiIiIgAAACIiIiIiAgAgIiIiIiIiACAiIiIiIiIAICIiIiIiInB3JyIiIiIid3cnIiIiIiJ3dyIiIiIiIncnIiIiIiIiACAiIiIiIgIAICIiIiIiAgAgIiIiIiIAAAAgIiIiAgAAAAAgIiIAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "APPLE"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
